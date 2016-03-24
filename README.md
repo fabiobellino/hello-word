@@ -1,4 +1,4 @@
 # hello-word
 It'll be easy
 
-With J, is our first steps on Git
+With J, is our second steps on Git
